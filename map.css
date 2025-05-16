@@ -16,7 +16,7 @@ header {
   max-width: none;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
   padding: 12px 40px;
   background: #fff8e7;
   box-sizing: border-box;
